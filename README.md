@@ -1,4 +1,4 @@
-# My_App
+# My App
 
 1. Develop a small react native application that is similar to the figma design provided.
 2. Integrate firebase authentication and firebase database to your app. The "Sign Up" and "Sign In" processes should be there.
